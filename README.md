@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Ravi<br>🔭 I’m pursuing a BCA in Full Stack Development<br>📚 I know frontend and I’m currently learning backend using Node.js, Express, and MongoDB<br>⚡ In my free time, I love to create new projects and explore new technologies</p>
+<p align="left">👋 Hi, I’m Ravi Goswami<br>🔭 I’m pursuing a BCA in Full Stack Development<br>📚 I know frontend and I’m currently learning backend using Node.js, Express, and MongoDB<br>⚡ In my free time, I love to create new projects and explore new technologies</p>
 
 ###
 
@@ -92,17 +92,5 @@
   <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=ravig0swami&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravig0swami/ravig0swami/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravig0swami/ravig0swami/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ravig0swami/ravig0swami/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/ravig0swami/ravig0swami/output/snake.svg" alt="Snake animation" />
 
 ###

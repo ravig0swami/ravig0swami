@@ -82,18 +82,24 @@
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+  <!-- Left card slightly bigger -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravig0swami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-       style="flex: 1.2 1 350px; max-width: 50%;" 
+       style="flex: 1.2 1 300px; max-width: 50%;" 
        alt="languages graph" />
 
-  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" style="flex: 1 1 300px; max-width: 47%;" alt="streak graph" />
+  <!-- Right card smaller -->
+  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
+       style="flex: 1 1 300px; max-width: 45%;" 
+       alt="streak graph" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ravig0swami&theme=dracula&column=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" style="width: 100%; max-width: 800px;" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=ravig0swami&theme=dracula&column=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
+       style="width: 100%; max-width: 800px; margin-top: 20px;" 
+       alt="trophy graph" />
 </div>
 
 ###

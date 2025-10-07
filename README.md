@@ -82,7 +82,7 @@
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
 
   <!-- Left card slightly bigger -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravig0swami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 

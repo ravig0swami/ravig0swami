@@ -2,11 +2,7 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRiZGluNHJjNW44MGRuamhsdTYwZDF5MjF5ZGFhMzk4aGszcDczZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif"  />
 </div>
 
-###
-
-<h1 align="center">Hii, Kaise Ho👋</h1>
-
-###
+<h2 align="center">Hii, Kaise Ho👋</h2>
 
 <div align="center">
   <img src="https://count.getloli.com/@:ravig0swami?theme=normal-1&padding=5&offset=10&scale=1&align=center&pixelated=0&darkmode=auto"  />
@@ -21,9 +17,9 @@
   <a href="https://www.instagram.com/ravig0swami_07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/ravig0swami" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/ravig0swami" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+</a>
   <a href="https://t.me/ravig0swami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
   </a>
@@ -86,10 +82,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravig0swami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=ravig0swami&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravig0swami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="43%" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" width="47%" alt="streak graph" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app?username=ravig0swami&theme=dracula&column=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="80%" alt="trophy graph" />
+
 </div>
 
 ###

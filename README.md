@@ -95,7 +95,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=ravig0swami&theme=dracula&column=4&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
-       style="width: 80%; max-width: 800px; margin-top: 20px;" 
+       style="width: 80%; max-width: 500px; margin-top: 20px;" 
        alt="trophy graph" />
 </div>
 

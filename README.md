@@ -2,7 +2,7 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRiZGluNHJjNW44MGRuamhsdTYwZDF5MjF5ZGFhMzk4aGszcDczZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif"  />
 </div>
 
-<h2 align="center">Hii, Kaise Ho👋</h2>
+<h2 align="center">Hii There 👋</h2>
 
 <div align="center">
   <img src="https://count.getloli.com/@:ravig0swami?theme=normal-1&padding=5&offset=10&scale=1&align=center&pixelated=0&darkmode=auto"  />

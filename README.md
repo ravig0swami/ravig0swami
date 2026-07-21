@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">👋 My name is Ravi Goswami<br>🔭 I’m pursuing a BCA in Full Stack Development<br>📚 I know frontend and I’m currently learning backend using Node.js, Express, and MongoDB<br>⚡ In my free time, I love to create new projects and explore new technologies</p>
+<p align="left">👋 My name is Ravi Goswami<br>🔭 I’m a Full Stack Developer<br>📚 I know frontend and I’m currently learning backend using Node.js, Express, and MongoDB<br>⚡ In my free time, I love to create new projects and explore new technologies</p>
 
 ###
 
@@ -83,6 +83,9 @@
 ###
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br></br>
+![](https://github-readme-stats.shion.dev/api?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
 
   <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
        style="flex: 1 1 300px; max-width: 45%;" 

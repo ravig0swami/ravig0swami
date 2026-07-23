@@ -37,10 +37,10 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Ravi Goswami </br>
-💻 I'm a Full-Stack Developer specializing in the MERN Stack </br>
-🚀 I build modern, scalable, and AI-powered web applications with React.js, Next.js, Node.js, TypeScript, and MongoDB </br>
-⚡ I love building innovative projects, solving real-world problems, and exploring the latest in web development</p>
+<p align="left">👋 Hi, my name is Ravi Goswami. </br>
+💻 I'm a Full-Stack Developer specialising in the MERN Stack. </br>
+🚀 I build modern, scalable, and AI-powered web applications with React.js, Next.js, Node.js, and MongoDB. </br>
+⚡ I love building innovative projects, solving real-world problems, and exploring the latest in web development.</p>
 
 ###
 

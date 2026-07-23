@@ -37,7 +37,11 @@
 
 ###
 
-<p align="left">👋 My name is Ravi Goswami<br>🔭 I’m a Full Stack Developer<br>📚 I know frontend and I’m currently learning backend using Node.js, Express, and MongoDB<br>⚡ In my free time, I love to create new projects and explore new technologies</p>
+<p align="left">👋 Hi, I'm Ravi Goswami
+💻 I'm a Full-Stack Developer specializing in the MERN Stack
+🚀 I build modern, scalable, and AI-powered web applications with React.js, Next.js, Node.js, TypeScript, and MongoDB
+🌱 I'm constantly learning new technologies and improving my backend and system design skills
+⚡ I love building innovative projects, solving real-world problems, and exploring the latest in web development</p>
 
 ###
 

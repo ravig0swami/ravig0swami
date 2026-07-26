@@ -87,13 +87,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br></br>
-![](https://github-readme-stats.shion.dev/api?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
-
-  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" 
-       style="flex: 1 1 300px; max-width: 45%;" 
-       alt="streak graph" />
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     
 </div>

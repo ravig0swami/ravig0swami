@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://wa.me/918294020036" target="_blank">
+  <a href="https://wa.me/@_ravig0swami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/ravig0swami_07" target="_blank">
@@ -23,7 +23,7 @@
   <a href="https://t.me/ravig0swami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
   </a>
-  <a href="mailto:ravikantkumarpuri98@gmail.com" target="_blank">
+  <a href="mailto:dev.ravig0swami@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@ravig0swami_07" target="_blank">

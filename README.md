@@ -87,7 +87,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br></br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-    
+
 </div>

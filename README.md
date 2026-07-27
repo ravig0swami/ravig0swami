@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap">
+<div align="center">
   
   <a href="https://www.linkedin.com/in/ravig0swami" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
@@ -116,7 +116,7 @@
 
 ###
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br></br>
 

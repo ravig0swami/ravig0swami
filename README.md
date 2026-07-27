@@ -10,10 +10,10 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap">
   
   <a href="https://www.linkedin.com/in/ravig0swami" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
 
   <a href="https://www.instagram.com/ravig0swami_07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
@@ -110,7 +110,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
 
-
 ###
 
 <h3 align="left">🔥   Stats & Motivation</h3>
@@ -120,6 +119,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br></br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=algolia&animation=grow_out_in&layout=zues&font=default&quoteType=quote-for-the-day)
 
 </div>

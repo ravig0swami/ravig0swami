@@ -19,7 +19,7 @@
   </a>
   <a href="https://x.com/ravig0swami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=696969&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+  </a></br>
   <a href="https://t.me/ravig0swami" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>

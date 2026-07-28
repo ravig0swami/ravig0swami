@@ -10,28 +10,21 @@
 
 ###
 
-<div align="center">
-  
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/ravig0swami" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" /></a>
-
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/ravig0swami_07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-
   <a href="https://x.com/ravig0swami" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=696969&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=696969&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  
- </a>
   <a href="https://t.me/ravig0swami" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="mailto:dev.ravig0swami@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/@ravig0swami_07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -48,11 +41,11 @@
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 data-importer="text" align="left">🛠 Language and Tools</h3>
 
 ###
 
-<div data-importer="techs" align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -112,14 +105,17 @@
 
 ###
 
-<h3 align="left">🔥   Stats & Motivation</h3>
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravig0swami&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact) </br></br>
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=algolia&animation=grow_out_in&layout=zues&font=default&quoteType=quote-for-the-day)
-
+<div data-importer="stats" align="center">
 </div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###

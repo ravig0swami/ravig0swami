@@ -41,66 +41,12 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo"  />
-  <img />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo"  />
-  <img />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="react logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
-  <img />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
-  <img />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
-  <img />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
-  <img />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="vercel logo"  />
-  <img />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="32" alt="netlify logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo"  />
-  <img />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
-  <img />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="sass logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="supabase logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
-  <img />
-  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
-  <img />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="32" alt="wordpress logo"  />
-  <img />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="32" alt="woocommerce logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,tailwind,sass,firebase,supabase,figma,postman,vercel,netlify,wordpress,woocommerce&perline=14" />
 </div>
 
 ###

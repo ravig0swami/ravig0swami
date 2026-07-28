@@ -45,22 +45,20 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,tailwind,sass,firebase,supabase,figma,postman,vercel,netlify,wordpress,woocommerce&perline=9" />
 </div>
-
-###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
 
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
 </div>
 
 ###
 
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 

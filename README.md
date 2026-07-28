@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,tailwind,sass,firebase,supabase,figma,postman,vercel,netlify,wordpress,woocommerce&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,tailwind,sass,firebase,supabase,figma,postman,vercel,netlify,wordpress,woocommerce&perline=9" />
 </div>
 
 ###

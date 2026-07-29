@@ -4,27 +4,6 @@
 
 <h2 align="center">Hey There 👋</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravig0swami">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg" height="40" />
-  </a>
-  <a href="https://www.instagram.com/ravig0swami_07">
-    <img src="https://api.iconify.design/skill-icons:instagram.svg" height="40" />
-  </a>
-  <a href="https://x.com/ravig0swami">
-    <img src="https://api.iconify.design/ri:twitter-x-fill.svg" height="40" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/ravig0swami">
-    <img src="https://api.iconify.design/logos:telegram.svg" height="40" />
-  </a>
-  <a href="mailto:dev.ravig0swami@gmail.com">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" height="40" />
-  </a>
-</p>
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 

@@ -14,6 +14,9 @@
   <a href="https://x.com/ravig0swami">
     <img src="https://api.iconify.design/ri:twitter-x-fill.svg" height="40" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://t.me/ravig0swami">
     <img src="https://api.iconify.design/logos:telegram.svg" height="40" />
   </a>

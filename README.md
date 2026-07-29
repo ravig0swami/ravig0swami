@@ -22,17 +22,16 @@
 
 <h3 align="left">🛠 Language and Tools</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,tailwind,sass,firebase,supabase,figma,postman,vercel,netlify,wordpress,woocommerce&perline=9" />
 </div>
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥   My Stats & Motivation</h3>
 
-<div data-importer="stats" align="left">
+<div align="center">
  
   <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-![Motivational Quote](https://vercel.app)
-![Styled Quote](https://vercel.app)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=cobalt&animation=default&layout=default&font=default&quoteType=quote-for-the-day)
 
 </div>

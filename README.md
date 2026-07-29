@@ -30,7 +30,7 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></br>
+  <img src="https://streak-stats.demolab.com?user=ravig0swami&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></hr>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=cobalt&animation=default&layout=default&font=default&quoteType=quote-for-the-day)
 

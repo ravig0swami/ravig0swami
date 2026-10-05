@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,java,git,github,docker,tailwind,sass,firebase,supabase,figma,postman,vercel,netlify,wordpress,woocommerce&perline=9" />
 </div>
 
-<h3 data-importer="text" align="left">🔥   My Stats & Motivation</h3>
+<h3 data-importer="text" align="left">🔥 Stats & Motivation</h3>
 
 <div align="center">
  
